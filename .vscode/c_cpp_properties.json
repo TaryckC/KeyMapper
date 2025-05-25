@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/src/gui",
+                "${workspaceFolder}/**",
+                "/opt/homebrew/opt/qt/include",
+                "/opt/homebrew/opt/qt/include/QtWidgets",
+                "/opt/homebrew/opt/qt/include/QtGui",
+                "/opt/homebrew/opt/qt/include/QtCore"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
